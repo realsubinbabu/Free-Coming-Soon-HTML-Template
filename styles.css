@@ -1,0 +1,49 @@
+/*!
+ * @author subin babu - https://www.linkedin.com/in/realsubinbabu/
+ * Copyright (c) 2023
+ */
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 0.5em;
+}
+
+.countdown {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2em;
+}
+
+.countdown p {
+  font-size: 1.5em;
+  margin: 0 0.5em;
+}
+
+form {
+  margin-top: 2em;
+}
+
+#email {
+  padding: 0.5em;
+  font-size: 1em;
+  width: 20em;
+}
+
+#notify-me {
+  padding: 0.5em;
+  font-size: 1em;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#response {
+  margin-top: 1em;
+  font-size: 1.5em;
+}
